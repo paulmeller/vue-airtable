@@ -13,3 +13,5 @@ Vue.use(AirTable, {
     base: '<Airtable App>'
 });
 ```
+
+Access from your view app using `this.$airtable`
