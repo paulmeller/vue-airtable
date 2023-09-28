@@ -1,5 +1,5 @@
 {
   "dependencies": {
-    "airtable": "^0.5.9"
+    "airtable": "^0.12.2"
   }
 }
